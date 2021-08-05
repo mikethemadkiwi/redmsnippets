@@ -1,6 +1,5 @@
 # redmsnippets
-snippets of redm code i found handy, or want to use someday
-
-git add .
-git commit -m "should this be here?"
-git push
+snippets of redm code   
+Research Stuff   
+CHAOS UNFOLDS!!   
+use whatever, all of this is just stuff you can google smashed together.
